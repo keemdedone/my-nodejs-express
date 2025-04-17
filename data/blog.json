@@ -1,0 +1,19 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "name": "King in yellow",
+      "pageSize": 30
+    },
+    {
+      "id": 2,
+      "name": "Odessy",
+      "pageSize": 50
+    },
+    {
+      "id": 3,
+      "name": "Acrane",
+      "pageSize": 30
+    }
+  ]
+}
